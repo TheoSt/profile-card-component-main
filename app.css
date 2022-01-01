@@ -55,7 +55,7 @@ main {
     
 }
 
-#footer {
+#profileFooter {
     display:flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -76,7 +76,7 @@ main {
     margin-top:-40%;
 }
 
-.attribution {
+footer {
     text-align:center;
     padding:0;
 }
